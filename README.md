@@ -1,4 +1,4 @@
-# Garbage Gif Simulator
+# Great Gif Simulator
 *Create custom scene using sprite and images*
 # How to use ?
 Once the project cloned create a folder named image and put every sprite you want in a folder inside the directory image.
